@@ -5,6 +5,7 @@
 \alias{sandbox-package}
 \alias{sandbox}
 \title{Probabilistic Numerical Modelling of Sediment Properties
+
 \cr
 
 \if{html}{
@@ -15,6 +16,13 @@ Flexible framework for definition and application of time/depth-based
 rules for sets of parameters for single grains that can be used to
 create synthetic samples, used for synthetic preparation and synthetic
 measurements.
+}
+\seealso{
+Useful links:
+\itemize{
+  \item Report bugs at \url{https://github.com/coffeemuggler/sandbox/issues}
+}
+
 }
 \author{
 Michael Dietze (GFZ Potsdam, Germany),
